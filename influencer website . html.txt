@@ -1,0 +1,17 @@
+<!DOCTYPE htmL>
+<htmL>
+<head>
+  <meta name = "viewport" content = "width=device-width, initial - scale = 1.0">
+  <title> Socialbook - Easy blogs on youtube channel </title>
+  <link rel = "stylesheet" href = "style.css">
+  <script src = "https://kit.fontawesome.come/c4254e24a8.js" crossorigin = "anonyms"></script>
+</head>
+<body>
+
+  <nav>
+     <div class = "nav-left">
+     <img src = " C:\Users\Gokula Sri\Pictures\Screenshots\Screenshot (364).png">
+     <ul>
+       <li> <img src = C:\Users\Gokula Sri\Pictures\Screenshots\Screenshot (366).png> </li>
+       <li> <img src = C:\Users\Gokula Sri\Pictures\Screenshots\Screenshot (368).png </li>
+     </ul>
