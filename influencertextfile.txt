@@ -1,0 +1,98 @@
+<!DOCTYPE htmL>
+<htmL>
+<head>
+<title> webisite-e0322006 </title>
+</head>
+<body>
+   <h1><strong><ins><center> INFLUENCER WEBSITE </center></ins></strong></h1>
+   
+   <div class = "logo"><a href = "#"><img src = "C:\Users\Gokula Sri\Pictures\Screenshots\Screenshot (371).png"></a></div>
+   <nav>
+      <ul>
+         <li><a href = "#">Home</a></li>
+         <li><a href = "#">About Us</a></li>
+         <li><a href = "#">Solutions</a></li>
+         <li><a href = "#">Services</a></li>
+         <li><a href = "#">Pricing</a></li>
+         <li><a href = "#">Influencers</a></li>
+         <li><a href = "#"> Search</a></li>
+         <li><a href = "#">HIRE NOW</a></li>
+      </ul>
+    </nav>
+   <h1> FIND THE RIGHT <br> INFLUENCERS <br> FOR ALL YOUR EVENTS <br></h1>
+         <h4> Connect with influencers, creators, vloggers and so on.....<br>
+         Our website helps you to find the best influencers in just one click <br>
+         and in cheap price<br></h4>
+   
+   <image src="C:\Users\Gokula Sri\Pictures\Screenshots\Screenshot (374).png"alt=" "width="350px"height="450px"border="5" >
+   <image src="C:\Users\Gokula Sri\Pictures\Screenshots\Screenshot (388).png"alt=" "width="550px"height="500px"border="2" >
+   <image src="https://grin.co/wp-content/uploads/2021/10/technology-reviewer-min.jpg"alt=" "width="550px"height="450px"border="4" ></br></br></br></br></br></br></br>
+   
+    <!--<p><strong><ins> SEARCH <br> HIRE NOW </br></ins></strong></p>
+    <hr>
+
+    <h3><center><ins> CATEGORIES & PRICING </ins></center></h3>
+
+    <h2> 1. BUSINESS INFLUENCERS <br></h2>
+    <h3> PRICING: <mark>Rs. 25,000 <ins> permonth</ins></mark> <br>
+    <h2> 2. MARKETING INFLUENCERS <br></h2>
+    <h3> PRICING: <mark>Rs. 20,000 <ins> permonth</ins></mark> <br> 
+    <h2> 3. SOCIALMEDIA INFLUENCERS <br></h2>
+    <h3> PRICING: <mark>Rs. 30,000 <ins> permonth</ins></mark> <br></br></br></br></br></br></br> 
+    <hr>
+
+    <h3><ins><center> INFLUENCERS </ins></center></h3>
+
+    <h2><strong><ins> CATEGORY 1 : </strong></ins></h2><br>
+    <h2> TOP 2 BUSINESS INFLUENCERS </h2><br>
+    <image src="https://media.cnn.com/api/v1/images/stellar/prod/210708163413-21-richard-branson-unf.jpg?q=w_1600,h_1037,x_0,y_0,c_fill/w_1280"alt=" "width="100px"height="80px"border="2"><br>
+    <p><strong> Richard Branson </strong><br>
+       Richard Branson is a British business influencer who started a record company, in the early 1970s.<br>
+       Starting as a teenager with the magazine Student, his unusual business and management practices have created a multi-billion empire that includes an international airline.<br>
+       The philanthropist has more than 12 million followers on his Twitter account.<br></p>
+    <image src="C:\Users\Gokula Sri\Pictures\Screenshots\Screenshot (387).png"alt=" "width="100px"height="80px"border="2"><br>
+    <p><strong> Cynthia Johnson </strong><br>
+       She has been one of the top small business influencers, beginning in 2015 when she was the partner which was recognized as one of the fastest-growing private companies by Inc.<br>
+       Her other recognitions include being named one of the top 50 business influencers on Snapchat by Mashable and one of the top 20 individuals in SEO by the Guardian.<br>
+       Most recently, Cynthia has become an author. Her first book, “Platform,” was published in February 2019 by Penguin Random House publishing.<br></br></br></br></br></br></br></br></br></br></br></br></br></p>
+
+    <h2><strong><ins> CATEGORY 2 : </strong></ins></h2><br>
+    <h2> TOP 2 MARKETING INFLUENCERS </h2><br>
+    <image src="https://neilpatel.com/wp-content/uploads/2019/02/seothink.jpg"alt=" "width="100px"height="80px"border="2"><br>
+    <p><strong> Neil Patel  </strong><br>
+       A leader in SEO education, Neil Patel has been on Forbes' list of the top 10 online marketers.<br>
+        Learning the best content marketing and optimization strategies from this marketing digital influencer has<br>
+       helped in growing businesses like Amazon, HP, GM, and NBC.<br></p>
+    <image src="https://cardoneuniversity.com/wp-content/uploads/2020/04/cu-thumbnail-ryandeiss.jpg"alt=" "width="100px"height="80px"border="2"><br>
+    <p><strong> Ryan Deiss </strong><br>
+       Ryan Deiss is the creator behind the "Customer Value Optimization",<br>
+       tactic that has brought strong results for almost every business.<br>
+       He is also the CEO and Founder of DigitalMarketer.com.<br></br></br></br></br></br></br></br></br></br></br></br></br></p>
+
+   <h2><strong><ins> CATEGORY 3 : </strong></ins></h2><br>
+    <h2> TOP 2 SOCIALMEDIA INFLUENCERS </h2><br>
+    <image src="C:\Users\Gokula Sri\Pictures\Screenshots\Screenshot (391).png"alt=" "width="100px"height="80px"border="2"><br>
+    <p><strong> Diipa Khosla   </strong><br>
+       Diipa is not technically a social media influencer from India but she is of Indian-origin.<br>
+       Based in Amsterdam, with a massive global presence and reach,  she is a true style icon<br>
+       We love her because Diipa is always an active voice in highlighting major social and economic issues.<br></p>
+    <image src="C:\Users\Gokula Sri\Pictures\Screenshots\Screenshot (393).png"alt=" "width="100px"height="80px"border="2"><br>
+    <p><strong> Sakshi Sindwani </strong><br>
+       Sakshi is a Delhi-based model and a creator who has taken Instagram by storm with<br>
+       her trendy styling videos, infectious smile, and unshakeable confidence and<br>
+       enthusiasm.<br></br></br></br></br></br></br></br></br></br></br></br></br></p>
+   <hr>
+
+   
+
+
+
+
+
+     
+  
+     
+  
+     
+         
+
