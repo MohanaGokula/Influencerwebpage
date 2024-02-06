@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Forms-e0322006</title>
+</head>
+<body>
+<h1>Influencer Signup form</h1>
+<fieldset>
+<legend> Sign in</legend>
+<form>
+<label>Name</label>
+<input type="text">
+<br>
+<label>Passowrd</label>
+<input type="passowrd">
+<br>
+<label>Select influencer</label>
+<select>
+<option value="1">Business Influencer</option>
+<option value="2">Marketing Influencer</option>
+<option value="3">Socialmedia Influencer</option>
+</select>
+<label>Email</label>
+<input type="text">
+<label>Contact no </label>
+<input type="text">
+<br>
+<br>
+<input type="date">
+<br>
+<textarea cols="30" rows="5"></textarea>
+<input type="radio" name="gen">male
+<input type="radio" name="gen">female
+<br>
+<input type="checkbox" name="terms>I agree
+<br>
+<input type="file"multiple>
+<input type="submit">
+<button>Save</button>
+</form>
+</fieldset>
+</body>
+</html>
